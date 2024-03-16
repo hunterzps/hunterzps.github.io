@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(base3cm.png);
+    background: url(https://imgur.com/RLZHGTf.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -8,7 +8,7 @@
 }
 
 .ds4.disconnected {
-    background: url(disconnected3cm.png);
+    background: url(https://imgur.com/7oGn6aE.png);
 }
 
 .ds4.disconnected div {
@@ -41,7 +41,7 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(bumper3cm.png) no-repeat;
+    background: url(https://imgur.com/3Wx9E8W.png) no-repeat;
     opacity: 0;
 }
 
@@ -157,7 +157,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(face3cm.png);
+    background: url(https://imgur.com/yDtUOfi.png);
 }
 
 .ds4 .button.pressed {
@@ -197,7 +197,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(sticks3cm.png);
+    background: url(https://imgur.com/AmGqsTG.png);
     height: 94px;
     width: 94px;
 }
@@ -229,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(dpad3cm.png);
+    background: url(https://imgur.com/HcQ3cpe.png);
     position: absolute;
 }
 
