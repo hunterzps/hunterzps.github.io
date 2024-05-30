@@ -2,7 +2,7 @@ Code for overlay ps4:-
 
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(basecosmos.png);
+    background: url(https://imgur.com/lveQeXt.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -10,7 +10,7 @@ Code for overlay ps4:-
 }
 
 .ds4.disconnected {
-    background: url(disconnectedcosmos.png);
+    background: url(https://imgur.com/J0WZpUb.png);
 }
 
 .ds4.disconnected div {
@@ -27,7 +27,7 @@ Code for overlay ps4:-
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(triggerscosmos.png);
+    background: url(https://imgur.com/fCdIznk.png);
     opacity: 0;
 }
 
@@ -43,7 +43,7 @@ Code for overlay ps4:-
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(bumpercosmos.png) no-repeat;
+    background: url(https://imgur.com/UO0FPFy.png) no-repeat;
     opacity: 0;
 }
 
@@ -124,7 +124,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(startcosmos.png);
+    background: url(https://imgur.com/k1avGyZ.png);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -159,7 +159,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(facecosmos.png);
+    background: url(https://imgur.com/6uX7WqA.png);
 }
 
 .ds4 .button.pressed {
@@ -199,7 +199,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(stickscosmos.png);
+    background: url(https://imgur.com/RtYUfwR.png);
     height: 94px;
     width: 94px;
 }
@@ -231,7 +231,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(dpadcosmos.png);
+    background: url(https://imgur.com/oL5qiSv.png);
     position: absolute;
 }
 
