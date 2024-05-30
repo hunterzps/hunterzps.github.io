@@ -10,7 +10,7 @@ Code for overlay ps4:-
 }
 
 .ds4.disconnected {
-    background: url(disconnectedcosmos);
+    background: url(disconnectedcosmos.png);
 }
 
 .ds4.disconnected div {
@@ -199,7 +199,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(stickcosmos.png);
+    background: url(stickscosmos.png);
     height: 94px;
     width: 94px;
 }
